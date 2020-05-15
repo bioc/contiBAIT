@@ -1,10 +1,10 @@
 Package: contiBAIT
 Type: Package
 Title: Improves Early Build Genome Assemblies using Strand-Seq Data
-Version: 1.17.0
-Date: 2019-10-03
+Version: 1.18.3
+Date: 2020-05-15
 Author: Kieran O'Neill, Mark Hills, Mike Gottlieb
-Maintainer: Kieran O'Neill <koneill@bccrc.ca>
+Maintainer: Kieran O'Neill <koneill@bcgsc.ca>
 Description: Using strand inheritance data from multiple single cells
     from the organism whose genome is to be assembled, contiBAIT
     can cluster unbridged contigs together into putative
